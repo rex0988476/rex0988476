@@ -8,29 +8,25 @@ Python
 - [StockSimulator](https://github.com/rex0988476/StockSimulator "Simulate stock market.")
 - [NetworkMahjong](https://github.com/rex0988476/NetworkMahjong "Japanese Mahjong.")
 - [Taiko-Simulator](https://github.com/rex0988476/Taiko-Simulator "Taiko training.")
-- [Real-time-Deepfake]( "")
-- []( "")
-- []( "")
-- []( "")
+- Real-time-Deepfake (private now)
+- Kemono_Bug (private now)
 
 Java
 ---
-123
+- [NetworkGomoku](https://github.com/rex0988476/NetworkGomoku "Gomoku game.")
 
-HTML, CSS, JS  
+Web 
 ---
-
-
-SQL  
----
-
+- [YOGASHOP](https://github.com/rex0988476/YOGASHOP "Book & CD online store. #HTML #CSS #JS #Python #SQL")
 
 C  
 ---
-
+- [Assembler](https://github.com/rex0988476/Assembler "Convert .asm to object code.")
+- [TETRIS](https://github.com/rex0988476/TETRIS "TETRIS in console.")
 
 C#  
 ---
+- [NS-SHAFT](https://github.com/rex0988476/NS-SHAFT "Unity game.")
 
 
 <!---
